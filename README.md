@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo ao meu perfil no GitHub 👩🏻‍💻👋🏻
 
-Espero que em breve possamos desenvolver algo juntos, será um prazer fazer parte do seu projeto 🤝🏻
+Espero que em breve possamos desenvolver algo juntos. Será um prazer fazer parte do seu projeto. 🤝🏻
 
 Essas são algumas das linguagens e frameworks do meu domínio. 👇🏻
 <div style="display: flex">
