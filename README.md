@@ -19,16 +19,13 @@ Essas são algumas das linguagens e frameworks do meu domínio. 👇🏻
 
 Não hesite em entrar em contato por meio das redes sociais. 😊
 <div>
-  <a href="https://www.instagram.com/bigmath.dev">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.bigmath.dev">
+  <a href="https://bigmathdev.netlify.app/">
     <img src="https://img.shields.io/badge/Portif%C3%B3lio-%23262618?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="mailto:contato@bigmath.dev">
+  <a href="mailto:bigmathdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/bigmath/">
+  <a href="https://www.linkedin.com/in/bigmathdev/">
     <img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
