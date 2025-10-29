@@ -43,7 +43,7 @@ Aqui você encontrará meus principais projetos, onde utilizo as tecnologias do 
   <a href="mailto:matheuspatricksa@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/matheuspsalmeida/">
+  <a href="https://www.linkedin.com/in/matheuspatricksa/">
     <img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
