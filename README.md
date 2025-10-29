@@ -36,16 +36,14 @@ Aqui você encontrará meus principais projetos, onde utilizo as tecnologias do 
 
 ## Entre em contato
 
-Não hesite em me chamar para trocar ideias, colaborar ou conhecer mais sobre meu trabalho:
-
 <div>
-  <a href="https://bigmathdev.netlify.app/">
+  <a href="https://matheuspatricksa.netlify.app">
     <img src="https://img.shields.io/badge/Portif%C3%B3lio-%23262618?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="mailto:bigmathdev@gmail.com">
+  <a href="mailto:matheuspatricksa@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/bigmathdev/">
+  <a href="https://www.linkedin.com/in/matheuspsalmeida/">
     <img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
