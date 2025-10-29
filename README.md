@@ -1,8 +1,5 @@
-## Olá, seja bem-vindo ao meu perfil no GitHub 👩🏻‍💻👋🏻
+## Bem-vindo ao meu GitHub 👩🏻‍💻👋🏻
 
-Espero que em breve possamos desenvolver algo juntos. Será um prazer fazer parte do seu projeto. 🤝🏻
-
-Essas são algumas das linguagens e frameworks do meu domínio. 👇🏻
 <div style="display: flex">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -10,8 +7,17 @@ Essas são algumas das linguagens e frameworks do meu domínio. 👇🏻
   <a href="https://vuejs.org/">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   </a>
-  <a href="https://nuxt.com/">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+  <a href="https://vuejs.org/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  </a>
+  <a href="https://www.java.com/pt-BR/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
+  </a>
+  <a href="https://www.java.com/pt-BR/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />          
+  </a>
+  <a href="https://www.java.com/pt-BR/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />               
   </a>
 </div>
 
