@@ -4,18 +4,18 @@ Sou um desenvolvedor apaixonado por tecnologia, atuando principalmente com JavaS
 
 ## Sobre mim
 
-- 💻 **Stack principal:** JavaScript, Vue.js, Java, Spring Boot
-- 🚀 **Experiência:** Desenvolvimento de aplicações web, APIs RESTful e automação de processos
-- 📍 **Localização:** São Paulo, Brasil
-- 🤝 **Disponível para oportunidades**
+💻 **Stack principal:** JavaScript, Vue.js, Java, Spring Boot
+🚀 **Experiência:** Desenvolvimento de aplicações web, APIs RESTful e automação de processos
+📍 **Localização:** São Paulo, Brasil
+🤝 **Disponível para oportunidades**
 
 ## Projetos em destaque
 
 Aqui você encontrará meus principais projetos, onde utilizo as tecnologias do meu dia a dia. Dê uma olhada nos repositórios para ver como aplico meus conhecimentos em projetos reais!
 
-- **Frontend moderno com Vue.js:** Interfaces dinâmicas e responsivas
-- **APIs robustas em Java/Spring Boot:** Backend seguro e escalável
-- **Automação e integração:** Scripts e soluções para facilitar o desenvolvimento
+**Frontend moderno com Vue.js:** Interfaces dinâmicas e responsivas
+**APIs robustas em Java/Spring Boot:** Backend seguro e escalável
+**Automação e integração:** Scripts e soluções para facilitar o desenvolvimento
 
 ## Tecnologias & Ferramentas
 
