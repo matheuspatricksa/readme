@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub 👨🏻‍💻👋🏻
 
-Sou desenvolvedor apaixonado por tecnologia, atuando principalmente com JavaScript, Vue.js, Java e Spring Boot. Atualmente moro em São Paulo, Brasil, e estou sempre buscando novos desafios para evoluir minhas habilidades e contribuir com projetos inovadores.
+Sou um desenvolvedor apaixonado por tecnologia, atuando principalmente com JavaScript, Vue.js, Java e Spring Boot. Atualmente moro em São Paulo, Brasil, e estou sempre buscando novos desafios para evoluir minhas habilidades e contribuir com projetos inovadores.
 
 ## Sobre mim
 
